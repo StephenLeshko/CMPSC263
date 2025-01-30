@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#demo-container {
+    padding: 20px;
+    border: 2px dashed gray;
+    margin: 20px auto;
+    width: 50%;
+}
+
+#sampleDiv {
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.highlight {
+    background-color: yellow;
+}
